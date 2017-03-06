@@ -1,0 +1,4 @@
+*.pyc
+emonitor.cfg
+emonitor.db
+data/
