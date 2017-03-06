@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 import sys
 sys.path.append('emonitor')  # do not remove to find wsgiserver2
 import os, argparse
